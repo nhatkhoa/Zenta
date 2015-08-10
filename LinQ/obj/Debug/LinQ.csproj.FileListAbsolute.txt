@@ -1,0 +1,8 @@
+D:\PROJECT\PROJECT C#\ZCF\LinQ\bin\Debug\Database.designer.cs
+D:\PROJECT\PROJECT C#\ZCF\LinQ\bin\Debug\Database.dbml
+D:\PROJECT\PROJECT C#\ZCF\LinQ\bin\Debug\Database.dbml.layout
+D:\PROJECT\PROJECT C#\ZCF\LinQ\bin\Debug\LinQ.dll.config
+D:\PROJECT\PROJECT C#\ZCF\LinQ\bin\Debug\LinQ.dll
+D:\PROJECT\PROJECT C#\ZCF\LinQ\bin\Debug\LinQ.pdb
+D:\PROJECT\PROJECT C#\ZCF\LinQ\obj\Debug\LinQ.dll
+D:\PROJECT\PROJECT C#\ZCF\LinQ\obj\Debug\LinQ.pdb

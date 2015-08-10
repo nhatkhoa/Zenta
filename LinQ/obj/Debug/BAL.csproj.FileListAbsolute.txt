@@ -1,0 +1,32 @@
+D:\PROJECT\PROJECT C#\ZCF\LinQ\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\PROJECT\PROJECT C#\ZCF\LinQ\bin\Debug\DAL.dll
+D:\PROJECT\PROJECT C#\ZCF\LinQ\bin\Debug\DAL.pdb
+D:\PROJECT\PROJECT C#\ZCF\LinQ\bin\Debug\BAL.dll.config
+D:\PROJECT\PROJECT C#\ZCF\LinQ\bin\Debug\BAL.dll
+D:\PROJECT\PROJECT C#\ZCF\LinQ\bin\Debug\BAL.pdb
+D:\PROJECT\PROJECT C#\ZCF\LinQ\obj\Debug\BAL.dll
+D:\PROJECT\PROJECT C#\ZCF\LinQ\obj\Debug\BAL.pdb
+C:\Users\XIZIU\OneDrive\Project\ZCF\LinQ\bin\Debug\BAL.dll.config
+C:\Users\XIZIU\OneDrive\Project\ZCF\LinQ\bin\Debug\BAL.dll
+C:\Users\XIZIU\OneDrive\Project\ZCF\LinQ\bin\Debug\BAL.pdb
+C:\Users\XIZIU\OneDrive\Project\ZCF\LinQ\bin\Debug\DAL.dll
+C:\Users\XIZIU\OneDrive\Project\ZCF\LinQ\bin\Debug\DAL.pdb
+C:\Users\XIZIU\OneDrive\Project\ZCF\LinQ\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\XIZIU\OneDrive\Project\ZCF\LinQ\obj\Debug\BAL.dll
+C:\Users\XIZIU\OneDrive\Project\ZCF\LinQ\obj\Debug\BAL.pdb
+E:\PROJECT\ZCF\LinQ\bin\Debug\BAL.dll.config
+E:\PROJECT\ZCF\LinQ\bin\Debug\BAL.dll
+E:\PROJECT\ZCF\LinQ\bin\Debug\BAL.pdb
+E:\PROJECT\ZCF\LinQ\bin\Debug\DAL.dll
+E:\PROJECT\ZCF\LinQ\bin\Debug\DAL.pdb
+E:\PROJECT\ZCF\LinQ\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\PROJECT\ZCF\LinQ\obj\Debug\BAL.dll
+E:\PROJECT\ZCF\LinQ\obj\Debug\BAL.pdb
+D:\PROJECT\ZCF\LinQ\bin\Debug\BAL.dll.config
+D:\PROJECT\ZCF\LinQ\bin\Debug\BAL.dll
+D:\PROJECT\ZCF\LinQ\bin\Debug\BAL.pdb
+D:\PROJECT\ZCF\LinQ\bin\Debug\DAL.dll
+D:\PROJECT\ZCF\LinQ\bin\Debug\DAL.pdb
+D:\PROJECT\ZCF\LinQ\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\PROJECT\ZCF\LinQ\obj\Debug\BAL.dll
+D:\PROJECT\ZCF\LinQ\obj\Debug\BAL.pdb

@@ -1,0 +1,89 @@
+D:\PROJECT\PROJECT C#\ZCF\ZCF\bin\Debug\ZCF.exe
+D:\PROJECT\PROJECT C#\ZCF\ZCF\bin\Debug\ZCF.pdb
+D:\PROJECT\PROJECT C#\ZCF\ZCF\obj\Debug\ZCF.csprojResolveAssemblyReference.cache
+D:\PROJECT\PROJECT C#\ZCF\ZCF\obj\Debug\ZCF.FrmMain.resources
+D:\PROJECT\PROJECT C#\ZCF\ZCF\obj\Debug\ZCF.Properties.Resources.resources
+D:\PROJECT\PROJECT C#\ZCF\ZCF\obj\Debug\ZCF.csproj.GenerateResource.Cache
+D:\PROJECT\PROJECT C#\ZCF\ZCF\obj\Debug\ZCF.exe.licenses
+D:\PROJECT\PROJECT C#\ZCF\ZCF\obj\Debug\ZCF.exe
+D:\PROJECT\PROJECT C#\ZCF\ZCF\obj\Debug\ZCF.pdb
+D:\PROJECT\PROJECT C#\ZCF\ZCF\bin\Debug\ZCF.exe.config
+D:\PROJECT\PROJECT C#\ZCF\ZCF\obj\Debug\ZCF.SplashScreen1.resources
+D:\PROJECT\PROJECT C#\ZCF\ZCF\bin\Debug\DAL.dll
+D:\PROJECT\PROJECT C#\ZCF\ZCF\bin\Debug\DAL.pdb
+D:\PROJECT\PROJECT C#\ZCF\ZCF\obj\Debug\ZCF.FrmDanhMuc.resources
+D:\PROJECT\PROJECT C#\ZCF\ZCF\obj\Debug\ZCF.OptionKhuVuc.resources
+D:\PROJECT\PROJECT C#\ZCF\ZCF\bin\Debug\BAL.dll
+D:\PROJECT\PROJECT C#\ZCF\ZCF\bin\Debug\BAL.pdb
+D:\PROJECT\PROJECT C#\ZCF\ZCF\obj\Debug\ZCF.FrmKhuVuc.resources
+D:\PROJECT\PROJECT C#\ZCF\ZCF\obj\Debug\ZCF.FrmNguoiDung.resources
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\bin\Debug\ZCF.exe.config
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.exe
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.pdb
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\bin\Debug\ZCF.exe
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\bin\Debug\ZCF.pdb
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\bin\Debug\BAL.dll
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\bin\Debug\DAL.dll
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\bin\Debug\BAL.pdb
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\bin\Debug\DAL.pdb
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.csprojResolveAssemblyReference.cache
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.FrmDanhMuc.resources
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.FrmKhuVuc.resources
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.FrmMain.resources
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.FrmNguoiDung.resources
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.OptionKhuVuc.resources
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.Properties.Resources.resources
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.SplashScreen1.resources
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.csproj.GenerateResource.Cache
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.exe.licenses
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.FrmLogin.resources
+C:\Users\XIZIU\OneDrive\Project\ZCF\ZCF\obj\Debug\ZCF.PhieuThanhToan.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.csprojResolveAssemblyReference.cache
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.DanhMucReport.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.FrmDanhMuc.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.FrmKhuVuc.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.FrmLogin.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.FrmMain.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.FrmNguoiDung.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.FrmThungRac.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.OptionKhuVuc.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.Properties.Resources.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.ReportDoanhThu.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.SplashScreen1.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.PhieuThanhToan.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.XuatDanhMuc.resources
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.csproj.GenerateResource.Cache
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.exe.licenses
+E:\PROJECT\ZCF\ZCF\bin\Debug\ZCF.exe.config
+E:\PROJECT\ZCF\ZCF\bin\Debug\ZCF.exe
+E:\PROJECT\ZCF\ZCF\bin\Debug\ZCF.pdb
+E:\PROJECT\ZCF\ZCF\bin\Debug\BAL.dll
+E:\PROJECT\ZCF\ZCF\bin\Debug\DAL.dll
+E:\PROJECT\ZCF\ZCF\bin\Debug\BAL.pdb
+E:\PROJECT\ZCF\ZCF\bin\Debug\DAL.pdb
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.exe
+E:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.pdb
+D:\PROJECT\ZCF\ZCF\bin\Debug\ZCF.exe.config
+D:\PROJECT\ZCF\ZCF\bin\Debug\ZCF.exe
+D:\PROJECT\ZCF\ZCF\bin\Debug\ZCF.pdb
+D:\PROJECT\ZCF\ZCF\bin\Debug\BAL.dll
+D:\PROJECT\ZCF\ZCF\bin\Debug\DAL.dll
+D:\PROJECT\ZCF\ZCF\bin\Debug\BAL.pdb
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.DanhMucReport.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.FrmDanhMuc.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.FrmKhuVuc.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.FrmLogin.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.FrmMain.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.FrmNguoiDung.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.FrmThungRac.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.OptionKhuVuc.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.Properties.Resources.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.ReportDoanhThu.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.SplashScreen1.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.PhieuThanhToan.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.XuatDanhMuc.resources
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.csproj.GenerateResource.Cache
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.exe.licenses
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.exe
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.pdb
+D:\PROJECT\ZCF\ZCF\obj\Debug\ZCF.csprojResolveAssemblyReference.cache

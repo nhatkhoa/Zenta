@@ -1,0 +1,8 @@
+D:\PROJECT\ZCF\LinQ\bin\Release\BAL.dll.config
+D:\PROJECT\ZCF\LinQ\bin\Release\BAL.dll
+D:\PROJECT\ZCF\LinQ\bin\Release\BAL.pdb
+D:\PROJECT\ZCF\LinQ\bin\Release\DAL.dll
+D:\PROJECT\ZCF\LinQ\bin\Release\DAL.pdb
+D:\PROJECT\ZCF\LinQ\obj\Release\BAL.csprojResolveAssemblyReference.cache
+D:\PROJECT\ZCF\LinQ\obj\Release\BAL.dll
+D:\PROJECT\ZCF\LinQ\obj\Release\BAL.pdb

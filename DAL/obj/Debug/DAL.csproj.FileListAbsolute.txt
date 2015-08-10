@@ -1,0 +1,21 @@
+D:\PROJECT\PROJECT C#\ZCF\DAL\bin\Debug\DAL.dll.config
+D:\PROJECT\PROJECT C#\ZCF\DAL\bin\Debug\DAL.dll
+D:\PROJECT\PROJECT C#\ZCF\DAL\bin\Debug\DAL.pdb
+D:\PROJECT\PROJECT C#\ZCF\DAL\obj\Debug\DAL.dll
+D:\PROJECT\PROJECT C#\ZCF\DAL\obj\Debug\DAL.pdb
+C:\Users\XIZIU\OneDrive\Project\ZCF\DAL\bin\Debug\DAL.dll.config
+C:\Users\XIZIU\OneDrive\Project\ZCF\DAL\bin\Debug\DAL.dll
+C:\Users\XIZIU\OneDrive\Project\ZCF\DAL\bin\Debug\DAL.pdb
+C:\Users\XIZIU\OneDrive\Project\ZCF\DAL\obj\Debug\DAL.dll
+C:\Users\XIZIU\OneDrive\Project\ZCF\DAL\obj\Debug\DAL.pdb
+E:\PROJECT\ZCF\DAL\bin\Debug\DAL.dll.config
+E:\PROJECT\ZCF\DAL\bin\Debug\DAL.dll
+E:\PROJECT\ZCF\DAL\bin\Debug\DAL.pdb
+E:\PROJECT\ZCF\DAL\obj\Debug\DAL.dll
+E:\PROJECT\ZCF\DAL\obj\Debug\DAL.pdb
+E:\PROJECT\ZCF\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\PROJECT\ZCF\DAL\bin\Debug\DAL.dll.config
+D:\PROJECT\ZCF\DAL\bin\Debug\DAL.dll
+D:\PROJECT\ZCF\DAL\bin\Debug\DAL.pdb
+D:\PROJECT\ZCF\DAL\obj\Debug\DAL.dll
+D:\PROJECT\ZCF\DAL\obj\Debug\DAL.pdb

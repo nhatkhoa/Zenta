@@ -1,0 +1,6 @@
+D:\PROJECT\ZCF\DAL\bin\Release\DAL.dll.config
+D:\PROJECT\ZCF\DAL\bin\Release\DAL.dll
+D:\PROJECT\ZCF\DAL\bin\Release\DAL.pdb
+D:\PROJECT\ZCF\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\PROJECT\ZCF\DAL\obj\Release\DAL.dll
+D:\PROJECT\ZCF\DAL\obj\Release\DAL.pdb
